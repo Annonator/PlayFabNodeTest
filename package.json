@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "playfab-sdk": "^2.78.211108"
+  }
+}
